@@ -1,0 +1,15 @@
+C:\Projects\CSharpPractice\CSharpPractice\bin\Debug\net10.0\CSharpPractice.exe
+C:\Projects\CSharpPractice\CSharpPractice\bin\Debug\net10.0\CSharpPractice.deps.json
+C:\Projects\CSharpPractice\CSharpPractice\bin\Debug\net10.0\CSharpPractice.runtimeconfig.json
+C:\Projects\CSharpPractice\CSharpPractice\bin\Debug\net10.0\CSharpPractice.dll
+C:\Projects\CSharpPractice\CSharpPractice\bin\Debug\net10.0\CSharpPractice.pdb
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfo.cs
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.dll
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\refint\CSharpPractice.dll
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.pdb
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPractice.genruntimeconfig.cache
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\ref\CSharpPractice.dll
+C:\Projects\CSharpPractice\CSharpPractice\obj\Debug\net10.0\CSharpPr.ADD6C8EA.Up2Date
